@@ -9,13 +9,15 @@ Here are the projects and sections covered in this course:
 Extract Tables from Websites
 Extract CSV Files from Websites
 Extract Tables from PDFs
-Web Automation & Web Scraping
+
+<h1> Web Automation & Web Scraping </h1>
 HTML Basics - Tags and Elements
 HTML Basics - Tree Structure
 XPath - Syntax, Functions and Operators
 XPath - Test Your XPath
 XPath - Special Characters and Syntax
-Automate The News
+
+<h1> Automate The News </h1>
 Installing Selenium and ChromeDriver
 Creating The Driver
 Finding Elements
@@ -24,12 +26,13 @@ Headless mode
 Preparing Script to Be Run Everyday
 Convert py to exe
 Schedule Python Script with crontab (macOS)
-Automate Excel Report
+<h1> Automate Excel Report </h1>
 Create a Pivot Table with Python
 Add a Bar Chart
 Write Excel Formulas with Python
 Format Cells
 Convert Pivot Table to Excel Report
 Generate Excel Reports with One Click (py to exe)
-Automate WhatsApp
+
+<h1> Automate WhatsApp </h1>
 Create an Automation Script for WhatsApp
