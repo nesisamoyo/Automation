@@ -31,6 +31,8 @@ Here are the projects and sections covered in this course:
   <li>Preparing Script to Be Run Everyday</li>
   <li>Convert py to exe</li>
   <li>Schedule Python Script with crontab (macOS)</li>
+</ul>
+
 <h1> Automate Excel Report </h1>
 <ul>
   <li>Create a Pivot Table with Python</li>
@@ -39,7 +41,9 @@ Here are the projects and sections covered in this course:
   <li>Format Cells</li>
   <li>Convert Pivot Table to Excel Report</li>
   <li>Generate Excel Reports with One Click (py to exe)</li>
+</ul>
 
 <h1> Automate WhatsApp </h1>
 <ul>
   <li>Create an Automation Script for WhatsApp</li>
+</ul>
