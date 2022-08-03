@@ -13,28 +13,33 @@ Here are the projects and sections covered in this course:
 </ul>
 
 <h1> Web Automation & Web Scraping </h1>
-HTML Basics - Tags and Elements
-HTML Basics - Tree Structure
-XPath - Syntax, Functions and Operators
-XPath - Test Your XPath
-XPath - Special Characters and Syntax
+<ul>
+  <li>HTML Basics - Tags and Elements</li>
+  <li>HTML Basics - Tree Structure</li>
+  <li>XPath - Syntax, Functions and Operators</li>
+  <li>XPath - Test Your XPath</li>
+  <li>XPath - Special Characters and Syntax</li>
+</ul>
 
 <h1> Automate The News </h1>
-Installing Selenium and ChromeDriver
-Creating The Driver
-Finding Elements
-Exporting Data to a CSV File
-Headless mode
-Preparing Script to Be Run Everyday
-Convert py to exe
-Schedule Python Script with crontab (macOS)
+<ul>
+  <li>Installing Selenium and ChromeDriver</li>
+  <li>Creating The Driver</li>
+  <li>Finding Elements</li>
+  <li>Exporting Data to a CSV File</li>
+  <li>Headless mode</li>
+  <li>Preparing Script to Be Run Everyday</li>
+  <li>Convert py to exe</li>
+  <li>Schedule Python Script with crontab (macOS)</li>
 <h1> Automate Excel Report </h1>
-Create a Pivot Table with Python
-Add a Bar Chart
-Write Excel Formulas with Python
-Format Cells
-Convert Pivot Table to Excel Report
-Generate Excel Reports with One Click (py to exe)
+<ul>
+  <li>Create a Pivot Table with Python</li>
+  <li>Add a Bar Chart</li>
+  <li>Write Excel Formulas with Python</li>
+  <li>Format Cells</li>
+  <li>Convert Pivot Table to Excel Report</li>
+  <li>Generate Excel Reports with One Click (py to exe)</li>
 
 <h1> Automate WhatsApp </h1>
-Create an Automation Script for WhatsApp
+<ul>
+  <li>Create an Automation Script for WhatsApp</li>
