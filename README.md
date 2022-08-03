@@ -6,9 +6,11 @@ This repository contains how to automate boring and repetitive tasks such as cre
 Here are the projects and sections covered in this course:
 
 <h1> Table Extraction </h1>
-Extract Tables from Websites
-Extract CSV Files from Websites
-Extract Tables from PDFs
+<ul>
+  <li>Extract Tables from Websites</li>
+  <li>Extract CSV Files from Websites</li>
+  <li>Extract Tables from PDFs</li>
+</ul>
 
 <h1> Web Automation & Web Scraping </h1>
 HTML Basics - Tags and Elements
